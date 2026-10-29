@@ -3,5 +3,3 @@ __pycache__/
 .pytest_cache/
 .coverage
 *.coverage.*
-L6_L7_42_salon_booking/
-
